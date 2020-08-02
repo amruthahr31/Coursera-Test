@@ -14,7 +14,9 @@
 }
 #html{
 	background-color:#EB9292;
-	border:2px solid black;
+	
+	border-left: 2px solid black;
+	border-bottom: 2px solid black;
 	text-align: center;
 	width: 30%;
 	height:30px;
@@ -29,7 +31,8 @@
 }
 #css{
 	background-color:#CC3434;
-	border:2px solid black;
+	border-left: 2px solid black;
+	border-bottom: 2px solid black;
 	text-align: center;
 	width: 30%;
 	height:30px;
@@ -41,7 +44,8 @@
 }
 #js{
 	background-color:#EDD896;
-	border:2px solid black;
+	border-left: 2px solid black;
+	border-bottom: 2px solid black;
 	text-align: center;
 	width: 30%;
 	height:30px;
